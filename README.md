@@ -24,24 +24,6 @@ This repository contains the labs, exercies, and projects specific to the Old Do
 >
 > \- [CS-350 Syllabus](https://www.cs.odu.edu/~zeil/cs350/latest/Public/syllabus/index.html)
 
-### :dart: Course Objectives
-
-Students completing this course should be able to:
-- Demonstrate an understanding of the overall strategy of software development.
-    - Discuss the phases and component activities of software development.
-    - Assess the likely impact of popular software process development models on a project.
-    - Discuss common team organizations and roles in software development.
-- Work with software requirements documents.
-    - Read common forms of requirements documents.
-    - Write at least one standard form of requirements document.
-    - Apply requirements to guide the subsequent construction of software.
-- Apply best practices in collaborative software construction.
-    - Discuss the issues and problems involved in collaborative development of software.
-    - Evaluate the suitability of alternative best practices for a software construction project.
-    - Support common best practices of via a modern IDE and associated tools.
-    - Apply a variety of software measurement and evaluation techniques.
-
-
 ## :link: Resources
 
-:book: Decker, L., & Zeil, S. (2024). CS 350 Introduction to Software Engineering (Spring 2024). Www.cs.odu.edu. https://www.cs.odu.edu/~zeil/cs350/latest/Public/syllabus/index.html
+- :computer: Decker, L., & Zeil, S. (2024). CS 350 Introduction to Software Engineering (Spring 2024). Www.cs.odu.edu. https://www.cs.odu.edu/~zeil/cs350/latest/Public/syllabus/index.html
